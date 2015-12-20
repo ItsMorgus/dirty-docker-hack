@@ -5,3 +5,7 @@ This is meant to replicate a load balancing application running on three virtual
 You can build the image with:
 
     docker build -t http-cimsi httpd
+
+And run it with:
+
+    docker run -d http-cimsi      
