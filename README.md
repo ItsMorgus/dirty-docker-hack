@@ -4,4 +4,4 @@ This is meant to replicate a load balancing application running on three virtual
 
 You can build the image with:
 
-    docker build -t http-cimsi .
+    docker build -t http-cimsi httpd
